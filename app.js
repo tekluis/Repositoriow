@@ -1,6 +1,6 @@
 // declaración de variables
 
-let num1=15;
+let num1=150;
 let num2=510;
 
 
