@@ -1,7 +1,7 @@
 // declaración de variables
 
 let num1=15;
-let num2=5;
+let num2=51;
 
 
 //importación archivos independientes
